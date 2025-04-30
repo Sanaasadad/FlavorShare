@@ -1,0 +1,40 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Tajine de poulet aux olives",
+        "category": "plat",
+        "chef": "Fatima",
+        "ingredients": [
+          "1 poulet",
+          "2 oignons",
+          "100g d'olives vertes",
+          "citron confit",
+          "épices (gingembre, curcuma, poivre, sel)"
+        ],
+        "steps": [
+          "Faire revenir le poulet avec les oignons et les épices.",
+          "Ajouter un peu d’eau et laisser mijoter.",
+          "Ajouter les olives et le citron confit en fin de cuisson."
+        ],
+        "image": "https://example.com/images/tajine.jpg"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "recipeId": 1,
+        "user": "Sarah",
+        "rating": 5,
+        "comment": "Un vrai délice ! Merci pour la recette."
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "admin123"
+      }
+    ]
+  }
+  
